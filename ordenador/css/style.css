@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Verdana, Arial, Helvetica
+}
+input[type="text"] {
+    padding: 5px;
+    line-height: 30px;
+    font-size: 20px;
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    cursor: hand;
+}
